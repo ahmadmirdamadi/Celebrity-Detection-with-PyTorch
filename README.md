@@ -19,3 +19,6 @@ Before running the code, ensure you have the following libraries installed:
 - Pillow
 - matplotlib
 - numpy
+
+Data: https://drive.google.com/file/d/1FfZfpOl292h9GUj5M_Zf0uc9pwPB0RzY/view?usp=sharing
+Source: https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset
